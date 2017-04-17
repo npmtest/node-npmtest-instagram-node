@@ -1,7 +1,7 @@
 # test coverage for  [instagram-node (v0.5.8)](https://github.com/teleportd/instagram-node)  [![npm package](https://img.shields.io/npm/v/npmtest-instagram-node.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-instagram-node) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-instagram-node.svg)](https://travis-ci.org/npmtest/node-npmtest-instagram-node)
 #### Simple Instagram driver for Node.js
 
-[![NPM](https://nodei.co/npm/instagram-node.png?downloads=true)](https://www.npmjs.com/package/instagram-node)
+[![NPM](https://nodei.co/npm/instagram-node.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/instagram-node)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-instagram-node/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-instagram-node/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-instagram-node/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-instagram-node/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-instagram-node/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-instagram-node/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-instagram-node/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-instagram-node/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-instagram-node/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-instagram-node/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-instagram-node%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-instagram-node/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-instagram-node/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-instagram-node/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-instagram-node/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-instagram-node%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-instagram-node/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-instagram-node/build/test-report.html](https://npmtest.github.io/node-npmtest-instagram-node/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-instagram-node/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-instagram-node/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-instagram-node/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-instagram-node/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-instagram-node/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-instagram-node/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-instagram-node/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "Anthony MOI",
-        "email": "anthony@teleportd.com",
         "url": "https://github.com/n1t0"
     },
     "bugs": {
@@ -59,13 +64,11 @@
     "main": "./lib/instagram",
     "maintainers": [
         {
-            "name": "n1t0",
-            "email": "anthony@teleportd.com"
+            "name": "n1t0"
         }
     ],
     "name": "instagram-node",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/teleportd/instagram-node.git"
