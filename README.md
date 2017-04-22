@@ -1,4 +1,7 @@
-# test coverage for  [instagram-node (v0.5.8)](https://github.com/teleportd/instagram-node)  [![npm package](https://img.shields.io/npm/v/npmtest-instagram-node.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-instagram-node) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-instagram-node.svg)](https://travis-ci.org/npmtest/node-npmtest-instagram-node)
+# npmtest-instagram-node
+
+#### basic test coverage for  [instagram-node (v0.5.8)](https://github.com/teleportd/instagram-node)  [![npm package](https://img.shields.io/npm/v/npmtest-instagram-node.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-instagram-node) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-instagram-node.svg)](https://travis-ci.org/npmtest/node-npmtest-instagram-node)
+
 #### Simple Instagram driver for Node.js
 
 [![NPM](https://nodei.co/npm/instagram-node.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/instagram-node)
@@ -74,7 +77,8 @@
         "url": "git+https://github.com/teleportd/instagram-node.git"
     },
     "scripts": {},
-    "version": "0.5.8"
+    "version": "0.5.8",
+    "bin": {}
 }
 ```
 
